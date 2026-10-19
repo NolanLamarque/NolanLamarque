@@ -21,5 +21,5 @@ Altough it is very time consuming, game development is also something i'm learni
 - Basic game developement in Unity
 
 ## Want to start a project together?
-You can contact & find me here:
+You can find & contact me here:
 - [My LinkedIn profile](www.linkedin.com/in/nolan-lamarque-a00123362)
