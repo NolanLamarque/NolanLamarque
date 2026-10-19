@@ -22,4 +22,4 @@ Altough it is very time consuming, game development is also something i'm learni
 
 ## Want to start a project together?
 You can find & contact me here:
-- [My LinkedIn profile](www.linkedin.com/in/nolan-lamarque-a00123362)
+- (www.linkedin.com/in/nolan-lamarque-a00123362)
