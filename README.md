@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+I'm Nolan and i'm currently studying to become a frontend developer.
+I'm currently working on multiple projects for school, for myself and for small companies.
+Apart from programming, I also like making motion graphics animations, 3D modeling & animations.
+Altough it is very time consuming, game development is also something i'm learning by myself.
 
-<!--
-**NolanLamarque/NolanLamarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What can I do?
+- Web development:
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+  - Kotlin
+  - Vue
+ 
+- Basic motion graphics animations
+- Low-Poly 3D modeling
+- Basic 3D animations
+- Web & App design
+- UX/UI design
+- Basic game developement in Unity
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Want to start a project together?
+You can contact & find me here:
+- [My LinkedIn profile](www.linkedin.com/in/nolan-lamarque-a00123362)
